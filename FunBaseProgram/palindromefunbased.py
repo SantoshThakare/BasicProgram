@@ -5,4 +5,6 @@ def palindrome(num):
     else:
         print('not a palindrome')
 
-print(palindrome('AArAA'))
+
+if __name__ == '__main__':
+    print(palindrome('AArAA'))
