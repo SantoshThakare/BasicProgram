@@ -7,7 +7,6 @@ def leap_year(year):
     else:
         print("{} is not a leap year".format(year))
 
-
 if __name__ == '__main__':
     input_year = int(input("Enter year :"))
     leap_year(input_year)

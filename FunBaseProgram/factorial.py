@@ -6,4 +6,5 @@ def fact(num):
 
 
 if __name__ == '__main__':
-    print(fact(4))
+    f = fact(4)
+    print(f)

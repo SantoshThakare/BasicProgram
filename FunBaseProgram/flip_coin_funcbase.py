@@ -1,6 +1,5 @@
 import random
 
-
 def coinflip(flips):
 
     head = 0
